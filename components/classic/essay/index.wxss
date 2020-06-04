@@ -1,0 +1,29 @@
+/* components/classic/essay/index.wxss */
+/* 自己写的样式 */
+/* .classic-container{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+
+}
+.classic-img{
+  width: 750rpx;
+  height: 500rpx;
+}
+.tag{
+  width: 45rpx;
+  height: 142rpx;
+  position: relative;
+  left: 30rpx;
+  bottom: 63rpx;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600rpx;
+  margin-top: 80rpx;
+  margin: 0 auto;
+} */
+/* 视频教学样式 */
+@import "../commom.wxss";
